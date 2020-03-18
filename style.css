@@ -1,1 +1,8 @@
-
+tr: hover {
+  background-color: rgb(235, 245, 251);
+}
+th, td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px;
+}
