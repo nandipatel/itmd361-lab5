@@ -1,6 +1,7 @@
 tr: hover {
   background-color: rgb(235, 245, 251);
 }
+
 th, td {
   padding: 8px;
   text-align: center;
@@ -8,5 +9,13 @@ th, td {
 }
 
 h2{
+  text-align: center;
+}
+
+table {
+  font-family: 'Avantgarde, TeX Gyre Adventor, URW Gothic L', sans-serif;
+}
+
+#tablet {
   text-align: center;
 }
