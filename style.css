@@ -2,6 +2,11 @@ tr: hover {
   background-color: rgb(235, 245, 251);
 }
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
 th, td {
   padding: 8px;
   text-align: center;
@@ -10,10 +15,10 @@ th, td {
 
 h2{
   text-align: center;
-  font-family: 'Raleway', sans-serif;
 }
 
-table {
+body {
+  background-color: rgb(197, 202, 204);
   font-family: 'Avantgarde, TeX Gyre Adventor, URW Gothic L', sans-serif;
 }
 
