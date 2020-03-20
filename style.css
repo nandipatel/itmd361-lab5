@@ -5,16 +5,12 @@ table {
   width: 100%;
 }
 
-th {
-  font-size: 25px;
-}
-
 th, td {
   padding: 8px;
   text-align: center;
   border-bottom: 3px solid #ddd;
   font-family: 'Playfair Display', serif;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 h2{
