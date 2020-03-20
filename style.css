@@ -15,10 +15,13 @@ th, td {
 
 h2{
   text-align: center;
+  border: 3px;
+  border-style: dashed;
+  border-color: white;
   font-family: 'Gochi Hand', cursive;
   font-size: 40px;
 }
 
 body {
-  background-color: rgb(136, 172, 193);
+  background-color: rgb(135, 173, 194);
 }
