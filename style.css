@@ -8,13 +8,15 @@ table {
 }
 
 th {
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Viaoda Libre', cursive;
+  font-size: 30px;
 }
 
 th, td {
   padding: 8px;
   text-align: center;
   border-bottom: 1px solid #ddd;
+  font-size: 25px;
 }
 
 h2{
@@ -24,6 +26,5 @@ h2{
 }
 
 body {
-  background-color: rgb(179, 204, 218);
-  font-family: 'Avantgarde, TeX Gyre Adventor, URW Gothic L', sans-serif;
+  background-color: rgb(159, 192, 212);
 }
