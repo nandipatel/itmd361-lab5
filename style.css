@@ -7,6 +7,10 @@ table {
   width: 100%;
 }
 
+th {
+  font-family: 'Amatic SC', cursive;
+}
+
 th, td {
   padding: 8px;
   text-align: center;
@@ -20,8 +24,4 @@ h2{
 body {
   background-color: rgb(197, 202, 204);
   font-family: 'Avantgarde, TeX Gyre Adventor, URW Gothic L', sans-serif;
-}
-
-#tablet {
-  text-align: center;
 }
